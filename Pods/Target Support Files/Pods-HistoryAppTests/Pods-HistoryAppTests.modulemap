@@ -1,0 +1,6 @@
+framework module Pods_HistoryAppTests {
+  umbrella header "Pods-HistoryAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
